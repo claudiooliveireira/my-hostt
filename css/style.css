@@ -65,7 +65,7 @@ nav { /* link do navbar */
 
 .default-btn {
     padding: 15px 20px;
-    background-color: #ffa915;
+    background-color: #d69f3f;
     border-radius: 5px;
 }
 
@@ -102,3 +102,24 @@ nav { /* link do navbar */
 .main-banner p {
     font-size: 32px;
 }
+
+/* Services / benefios */
+
+.services-container {
+    padding: 5rem 0 ;
+}
+
+
+.services-container ul {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
